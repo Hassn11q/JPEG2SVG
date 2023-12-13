@@ -40,10 +40,3 @@ Replace <input_directory_path> with the directory containing your JPEG images an
 Check the specified output directory for the generated SVG files.
 How it works
 The script uses OpenCV (cv2) to read JPEG images, processes them, and then converts them into SVG format using svgwrite. It iterates through the specified input directory, converts each JPEG image to SVG, and saves the resulting SVG files to the specified output directory.
-
-License
-This project is licensed under the MIT License.
-
-
-Feel free to adjust any additional information or instructions based on the specifics of your code or any preferences you might have. This enhanced README file provides clearer instructions on how to install the necessary dependencies and how to use your JPEG to SVG conversion script.
-
